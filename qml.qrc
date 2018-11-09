@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>QtCvSlider.qml</file>
+        <file>styles/PatternLibrary.qml</file>
+        <file>styles/qmldir</file>
+        <file>QtCvButton.qml</file>
+        <file>Fonts/OpenSans-Regular.ttf</file>
+    </qresource>
+</RCC>
