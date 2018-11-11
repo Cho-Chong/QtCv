@@ -87,3 +87,5 @@ LIBS += -LD:/opencv/opencv-3.4.3/opencv-3.4.3/build/install/x64/vc15/lib -lopenc
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+DISTFILES +=

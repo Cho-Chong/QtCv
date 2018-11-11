@@ -6,5 +6,7 @@
         <file>styles/qmldir</file>
         <file>QtCvButton.qml</file>
         <file>Fonts/OpenSans-Regular.ttf</file>
+        <file>face_class.xml</file>
+        <file>eye_class.xml</file>
     </qresource>
 </RCC>
